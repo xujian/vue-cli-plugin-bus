@@ -1,0 +1,19 @@
+{
+  "name": "vue-cli-plugin-bus",
+  "version": "1.0.5",
+  "description": "Vue-cli-3 plugin: bus",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+  },
+  "keywords": [
+    "api",
+    "vue-cli-plugin",
+    "vue",
+    "axios",
+    "vue",
+    "plugin"
+  ],
+  "author": "Mike Jian Xu",
+  "license": "MIT"
+}
