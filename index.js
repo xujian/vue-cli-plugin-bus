@@ -1,3 +1,3 @@
-import http from './main/http'
+import bus from './main/bus'
 
-export default http
+export default bus
